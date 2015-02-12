@@ -1,0 +1,22 @@
+{
+  "name": "resin-plugin-hello",
+  "version": "1.0.0",
+  "description": "Learn the basics of Resin CLI plugin development",
+  "homepage": "https://github.com/resin-io/resin-plugin-hello",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/resin-io/resin-plugin-hello.git"
+  },
+  "keywords": [
+    "resin",
+    "resin-cli",
+    "cli",
+    "tutorial"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Cruz Viotti <juanchiviotti@gmail.com>",
+  "license": "MIT"
+}
