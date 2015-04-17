@@ -1,6 +1,6 @@
 {
   "name": "resin-plugin-hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learn the basics of Resin CLI plugin development",
   "homepage": "https://github.com/resin-io/resin-plugin-hello",
   "repository": {
