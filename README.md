@@ -66,7 +66,7 @@ In the midtime, take a look at [Capitano](https://github.com/resin-io/capitano) 
 
 ## CoffeeScript
 
-You can develop your plugins with CoffeeScript. Just make sure you point to your `coffee` file from `package.json` `main` field.
+You can develop your plugins with CoffeeScript. Just make sure you compile to JavaScript and point the `main` field in your package.json to your compiled JavaScript file.
 
 ## Support
 
